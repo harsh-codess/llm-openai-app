@@ -1,4 +1,4 @@
- # 🤖 OpenAI GPT Chatbot
+ # 🤖 OpenAI GPT Chatbots
 
 An interactive chatbot powered by **OpenAI’s GPT-3.5-turbo** model, integrated via the official **OpenAI API**. This project uses **Streamlit** for a clean and responsive web UI and **LangChain** for modular orchestration, making it an ideal foundation for building intelligent AI assistants.
 
